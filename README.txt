@@ -13,7 +13,7 @@ This repository contains the source code for my personal portfolio website, buil
 ---
 
 ### 🧭 Live Preview
-🔗 [Visit My Portfolio](https://your-vercel-link.vercel.app)
+🔗 [Visit My Portfolio](https://miren-santos-portfolio.vercel.app)
 
 ---
 
@@ -24,3 +24,4 @@ Images from [Unsplash](https://unsplash.com)
 
 ---
 © 2025 Miren Amale M. Santos. All rights reserved.
+
